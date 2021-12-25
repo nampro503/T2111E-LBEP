@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdio.h>
-int chuvi(int a,int b, int c);
-double dientich(int a,int b,int c);
 
 int chuvi(int a,int b, int c){
 	return a+b+c;
